@@ -112,6 +112,7 @@ function update_lanip(){
           <option value="../Advanced_APLAN_Content.asp"><#menu5_2_1#></option>
           <option value="../Advanced_Switch_Content.asp"><#menu5_2_5#></option>
           <option value="../Advanced_WOL_Content.asp"><#menu5_2_6#></option>
+          <option value="../Advanced_DDNS_Content.asp"><#menu5_3_6#></option>
         </select>
     </td>
   </tr>
